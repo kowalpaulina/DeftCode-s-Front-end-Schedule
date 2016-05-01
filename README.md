@@ -33,22 +33,21 @@ this schedule.
 [Other](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#other)
 
 
-## 1. Fundamentals
-### HTML
+## 1. FUNDAMENTALS
+### HTML Fundamentals
 * History of HTML
-* Fundamentals (Elements, attributes)
+* Fundamentals (*Elements, attributes*)
 * Semantic markup
-* Standards mode and quirks mode
-* Guideline
+* Best practices and styleguide
 
-### CSS
+### CSS Fundamentals
 * History of CSS
-* Fundamentals (Selectors, properties)
+* Fundamentals (*Selectors, properties*)
 * Resets and normalizers
 * Box-model
-* Guideline
+* Best practices and styleguide
 
-### JavaScript
+### JavaScript Fundamentals
 * Variables and functions
 * Data structures
 * Object-oriented JavaScript
@@ -57,14 +56,15 @@ this schedule.
 * Types and grammar
 * Node.js basics
 * JSON
-* Guideline
+* Best practices and styleguide
 
-### Design
+### Design Fundamentals
 * Desktop design principles
 * Mobile design principles
+* Responsive design (*Including mobile first*)
 
 ### Version Control
-* Git (init, commit, branch, merge, rebase etc.)
+* Git (*Basic commands like init, add, commit, branch, merge, rebase and common workflows and collaboration*)
 * Github/Bitbucket/Gitlab
 
 
@@ -80,29 +80,29 @@ this schedule.
 * TCP/IP
 * SSL/TSL
 
-### CSS
+### CSS Basics
 * Floats
 * Clearing techniques
 * Efficient CSS
 * Transitions and animations
 * Translations
-* Preprocessors (Sass, Less, Stylus)
+* Preprocessors (*Sass, Less, Stylus*)
 
-### JavaScript
+### JavaScript Basics
 * ES5
 * AJAX
 * Prototypal inheritance
 * Design patterns
 
-### jQuery
+### jQuery Basics
 * Fundamentals
 
 ### Tools and workflow
 * Progressive enchancement
 * Graceful degradation
-* Task runners (Gulp, NPM, Grunt, Webpack)
-* Editors (Sublime Text, Webstorm)
-* CDNS and asset delivery
+* Task runners (*Gulp, NPM, Grunt, Webpack*)
+* Editors (*Sublime Text, Webstorm*)
+* CDNs and asset delivery
 * Chrome Dev Tools
 * Client-side debugging
 * Command line
@@ -119,7 +119,7 @@ this schedule.
 
 
 ## 3. Advanced
-### HTML
+### HTML5 API
 * Canvas
 * Web audio
 * Web video
@@ -128,17 +128,17 @@ this schedule.
 * Session storage, local storage
 * WebRTC
 
-### CSS
+### Advanced CSS
 * Media queries
-* Methodologies (BEM, OOCSS, SMACSS)
+* Methodologies (*BEM, OOCSS, SMACSS*)
 * Flexbox
-* Frameworks (Bootstrap, Foundation, SemanticUI, Materialize, Pure, Skeleton)
+* Frameworks (*Bootstrap, Foundation, SemanticUI, Materialize, Pure, Skeleton*)
 * Webfonts and responsive typography
 
-### JavaScript
-* HTML templating (Handlebars, Jade)
-* Funcational JS (Partial application, currying, immutable data)
-* Asynchronous JS (Callbacks, promises)
+### Advanced JavaScript
+* HTML templating (*Handlebars, Jade*)
+* Functional JS (*Partial application, currying, immutable data*)
+* Asynchronous JS (*Callbacks, promises*)
 * ES6
 * Typescript
 * API
@@ -146,8 +146,8 @@ this schedule.
 * Test-driven JavaScript
 
 
-## 4. Expert
-### JavaScript
+## 4. Beyond advanced
+### Expert JavaScript
 * Frameworks (Angular, React, Meteor)
 * Data visualization (D3, Three.js)
 
