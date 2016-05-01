@@ -78,7 +78,6 @@ this schedule.
 * BOM and browser events
 * DNS
 * Web hostings
-* SEO
 * TCP/IP
 * SSL/TSL
 
@@ -178,4 +177,5 @@ this schedule.
 * Cross-browser development and testing
 * Client-side performance
 * Headless browsers
+* SEO
 
