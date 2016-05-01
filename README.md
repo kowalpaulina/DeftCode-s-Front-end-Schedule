@@ -48,11 +48,11 @@ this schedule.
 * Best practices and styleguide
 
 ### JavaScript Fundamentals
-* Variables and functions
+* Variables and functions (*Hoisting*)
 * Data structures
-* Object-oriented JavaScript
+* Object-oriented JavaScript and "this"
 * First-class functions
-* Scopes and closures
+* Scopes and closures (*IIFE*)
 * Types and grammar
 * Node.js basics
 * JSON
@@ -83,19 +83,21 @@ this schedule.
 ### CSS Basics
 * Floats
 * Clearing techniques
-* Efficient CSS
 * Transitions and animations
 * Translations
 * Preprocessors (*Sass, Less, Stylus*)
+* Performance
 
 ### JavaScript Basics
 * ES5
 * AJAX
 * Prototypal inheritance
 * Design patterns
+* Performance
 
 ### jQuery Basics
 * Fundamentals
+* Performance and good practices
 
 ### Tools and workflow
 * Progressive enchancement
@@ -107,6 +109,7 @@ this schedule.
 * Client-side debugging
 * Command line
 * Package managers
+* Graphic tools (Photoshop/Illustrator)
 
 ### Usability and accessibility
 * WAI-ARIA
@@ -119,6 +122,10 @@ this schedule.
 
 
 ## 3. Advanced
+### CMS/SSG
+* Content Management Systems (*Wordpress, Drupal, Joomla*)
+* Static Sites Generators (*Jekyll, Metalsmith, Hexo*)
+
 ### HTML5 API
 * Canvas
 * Web audio
@@ -145,6 +152,8 @@ this schedule.
 * Modules
 * Test-driven JavaScript
 
+### Advanced jQuery
+* Plugins and libraries
 
 ## 4. Beyond advanced
 ### Expert JavaScript
@@ -163,7 +172,6 @@ this schedule.
 * CORS
 * Mobile Development with Apache Cordova
 * Hybrid and native mobile development
-* Static Sites Generators (Jekyll, Metalsmith, Hexo)
 * Localization and internationalization
 * Cross-browser development and testing
 * Client-side performance
