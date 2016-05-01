@@ -1,4 +1,4 @@
-# DeftCode's Front-end Schedule
+# DeftCode's Front-end Schedule (Version 1.0)
 
 ## Introduction:
 Goal of this schedule is to help new front-end developers keep learning in a good and consistent way and to help veterans
@@ -68,7 +68,7 @@ this schedule.
 * Github/Bitbucket/Gitlab
 
 
-## 2. Basics
+## 2. BASICS
 ### Web and browsers
 * HTTP actions
 * Request/response headers
@@ -109,7 +109,7 @@ this schedule.
 * Client-side debugging
 * Command line
 * Package managers
-* Graphic tools (Photoshop/Illustrator)
+* Graphic tools (*Photoshop/Illustrator*)
 
 ### Usability and accessibility
 * WAI-ARIA
@@ -121,7 +121,7 @@ this schedule.
 * UI architecture
 
 
-## 3. Advanced
+## 3. ADVANCED
 ### CMS/SSG
 * Content Management Systems (*Wordpress, Drupal, Joomla*)
 * Static Sites Generators (*Jekyll, Metalsmith, Hexo*)
@@ -155,7 +155,7 @@ this schedule.
 ### Advanced jQuery
 * Plugins and libraries
 
-## 4. Beyond advanced
+## 4. BEYOND ADVANCED
 ### Expert JavaScript
 * Frameworks (Angular, React, Meteor)
 * Data visualization (D3, Three.js)
