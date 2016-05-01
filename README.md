@@ -7,28 +7,30 @@ this schedule.
 
 ## Table of contents:
 [1. FUNDAMENTALS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#1-fundamentals):
-[HTML](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#html),
-[CSS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css),
-[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript),
-[Design](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#design),
+[HTML Fundamentals](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#html-fundamentals),
+[CSS Fundamentals](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css-fundamentals),
+[JavaScript Fundamentals](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-fundamentals),
+[Design Fundamentals](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#design-fundamentals),
 [Version Control](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#version-control)
 
 [2. BASICS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#2-basics):
 [Web and browsers](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#web-and-browsers),
-[CSS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css-1),
-[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-1),
-[jQuery](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#jquery),
+[CSS Basics](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css-basics),
+[JavaScript Basics](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-basics),
+[jQuery Basics](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#jquery-basics),
 [Tools and workflow](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#tools-and-workflow),
-[Usability and accessibility](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#usability-and-accessbility),
+[Usability and accessibility](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#usability-and-accessibility),
 [UI/UX](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#uiux)
 
 [3. ADVANCED](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#3-advanced):
-[HTML](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#html-1),
-[CSS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css-2),
-[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-2),
+[CMS/SSG](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#cmsssg),
+[HTML5 API](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#html5-api),
+[Advanced CSS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#advanced-css),
+[Advanced JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#advanced-javascript),
+[Advanced jQuery](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#advanced-jquery)
 
-[4. EXPERT](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#4-expert):
-[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-3),
+[4. BEYOND ADVANCED](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#4-beyond-advanced):
+[Expert JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#expert-javascript),
 [Scalable Vector Graphic (SVG)](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#scalable-vector-graphic-svg),
 [Other](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#other)
 
