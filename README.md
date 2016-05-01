@@ -1,5 +1,37 @@
 # DeftCode's Front-end Schedule
 
+## Introduction:
+Goal of this schedule is to help new front-end developers keep learning in a good and consistent way and to help veterans
+of front-end development to systematize already obtained knowledge. Feel free to make pull request in order to improve
+this schedule.
+
+## Table of contents:
+[1. FUNDAMENTALS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#1-fundamentals):
+[HTML](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#html),
+[CSS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css),
+[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript),
+[Design](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#design),
+[Version Control](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#version-control)
+
+[2. BASICS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#2-basics):
+[Web and browsers](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#web-and-browsers),
+[CSS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css-1),
+[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-1),
+[jQuery](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#jquery),
+[Tools and workflow](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#tools-and-workflow),
+[Usability and accessibility](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#usability-and-accessbility),
+[UI/UX](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#uiux)
+
+[3. ADVANCED](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#3-advanced):
+[HTML](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#html-1),
+[CSS](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#css-2),
+[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-2),
+
+[4. EXPERT](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#4-expert):
+[JavaScript](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#javascript-3),
+[Scalable Vector Graphic (SVG)](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#scalable-vector-graphic-svg),
+[Other](https://github.com/DeftCode-IT/DeftCode-s-Front-end-Schedule#other)
+
 
 ## 1. Fundamentals
 ### HTML
@@ -76,7 +108,7 @@
 * Command line
 * Package managers
 
-### Usability and accessbility
+### Usability and accessibility
 * WAI-ARIA
 * WCAG 2.0
 
